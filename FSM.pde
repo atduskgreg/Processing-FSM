@@ -1,6 +1,14 @@
 /*
 
-A simple Finite State Machine library for Processing. 
+     _  _(o)_(o)_  _
+   ._\`:_ F S M _:' \_,
+       / (`---'\ `-.
+    ,-`  _)    (_, 
+
+(not the Flying Spaghetti Monster, but ...)
+
+A simple Finite State Machine library for Processing!
+
 Based on the AlphaBeta FSM library for Arduino: http://www.arduino.cc/playground/Code/FiniteStateMachine
 (Matches that API as closely as possible (with the exception of using string names for functions instead
 of function pointers since function pointers are not available in Java).)
