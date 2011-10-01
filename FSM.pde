@@ -100,7 +100,7 @@ class State {
     }
 
     catch(NoSuchMethodException e) {
-      println("no such method");
+      println("One of the state transition function is missing.");
     }
   }
 
