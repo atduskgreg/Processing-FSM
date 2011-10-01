@@ -1,8 +1,7 @@
 == Processing FSM
 
 A simple Finite State Machine library for Processing. 
-Based on the AlphaBeta FSM library for Arduino: http://www.arduino.cc/playground/Code/FiniteStateMachine
-(Matches that API as closely as possible (with the exception of using string names for functions instead
+Based on the http://www.arduino.cc/playground/Code/FiniteStateMachine[AlphaBeta FSM library for Arduino] (matches that API as closely as possible (with the exception of using string names for functions instead
 of function pointers since function pointers are not available in Java).)
 
 http://en.wikipedia.org/wiki/Finite-state_machine[Learn more about Finite State Machines]
