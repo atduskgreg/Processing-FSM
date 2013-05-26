@@ -14,7 +14,7 @@ To initialize a State you need to pass in three strings representing the names o
 you've implemented in your sketch. These functions will be called when the state goes through its transitions: 
 
 ----
-State playMode = new State("enterPlayMode", "doPlayMode", "exitPlayMode");
+State playMode = new State(this, "enterPlayMode", "doPlayMode", "exitPlayMode");
 ----
 
 * The first function will be called once each time the FSM enters this state. (enter function)
